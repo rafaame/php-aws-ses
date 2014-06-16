@@ -1,0 +1,12 @@
+{
+    "name": "rafaame/php-aws-ses",
+    "description": "REST-based interface for Amazon Simple Mail Service (SES) written in PHP.",
+    "keywords": ["php","aws","ses"]
+    /*"autoload": 
+    {
+        "psr-0": 
+        {
+            "SimpleEmailService": "src"
+        }
+    }*/
+}
